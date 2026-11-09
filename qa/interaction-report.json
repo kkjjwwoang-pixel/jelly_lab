@@ -1,0 +1,33 @@
+{
+  "desktop": {
+    "backend": "WEBGPU",
+    "drag": [
+      0.7791539598698178,
+      1.1172507210346945,
+      -0.751591136251649
+    ],
+    "recovery": true,
+    "pauseAndNudge": true,
+    "scrollMorph": true,
+    "keyboard": true,
+    "about": true,
+    "frameTiming": {
+      "medianMs": 16.700000000000728,
+      "p90Ms": 16.899999999997817
+    }
+  },
+  "mobile": {
+    "noHorizontalOverflow": true,
+    "touchImpact": true,
+    "controls": true
+  },
+  "fallback": {
+    "backend": "WEBGL 2",
+    "interaction": true
+  },
+  "reducedMotion": {
+    "startsPaused": true,
+    "explicitPlay": true
+  },
+  "errors": []
+}

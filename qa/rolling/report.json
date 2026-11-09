@@ -1,0 +1,602 @@
+[
+  {
+    "backend": "webgpu",
+    "small": {
+      "ready": true,
+      "paused": false,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.02879967886339744,
+      "velocity": 0.20679769828520425,
+      "grab": [
+        0.15107417925584157,
+        0.207456524868305,
+        -0.1064091975848708
+      ],
+      "bodyPosition": [
+        0,
+        0.9160304374197777,
+        0
+      ],
+      "orientation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "angularVelocity": [
+        0,
+        0,
+        0
+      ],
+      "clearance": 0,
+      "grounded": true,
+      "attached": true,
+      "adhesionLoad": 0.09928064003750396,
+      "pixelRatio": 1,
+      "time": 4.516666666666681
+    },
+    "bonded": {
+      "ready": true,
+      "paused": false,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.03498648628559162,
+      "velocity": 0.0026761738403203584,
+      "grab": [
+        -0.14866155570859885,
+        1.6365420102928099,
+        -0.4357967062418817
+      ],
+      "bodyPosition": [
+        0,
+        0.9132162717849542,
+        0
+      ],
+      "orientation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "angularVelocity": [
+        0,
+        0,
+        0
+      ],
+      "clearance": 0,
+      "grounded": true,
+      "attached": true,
+      "adhesionLoad": 0.7866350057148513,
+      "pixelRatio": 1,
+      "time": 6.083333333333425
+    },
+    "tilted": {
+      "ready": true,
+      "paused": false,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.03708429257602825,
+      "velocity": -0.12151074182506089,
+      "grab": [
+        0.19493273407608186,
+        0.034124645163634205,
+        0.619571181511421
+      ],
+      "bodyPosition": [
+        1.322859578888657,
+        1.408302981410803,
+        -0.19574718706484248
+      ],
+      "orientation": [
+        -0.438330455280354,
+        0.2155968197676438,
+        0.27093208573718247,
+        0.8294457355354211
+      ],
+      "angularVelocity": [
+        0.024607652136846157,
+        -0.47612889400119246,
+        -0.5700491047077584
+      ],
+      "clearance": 0.01836016018795919,
+      "grounded": true,
+      "attached": false,
+      "adhesionLoad": 0.3545302961186839,
+      "pixelRatio": 1,
+      "time": 7.550000000000165
+    },
+    "pulled": {
+      "ready": true,
+      "paused": false,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.03539563330671013,
+      "velocity": 0.00573886410013078,
+      "grab": [
+        0.47871142706880315,
+        0.2545501376750043,
+        0.6569879373328239
+      ],
+      "bodyPosition": [
+        1.7093135855247144,
+        2.1461188050411377,
+        -0.13384666111761062
+      ],
+      "orientation": [
+        -0.4919177813618287,
+        -0.04376642816185915,
+        0.3579103720172719,
+        0.7924654956201356
+      ],
+      "angularVelocity": [
+        0.07789039765978385,
+        -0.2656931676286377,
+        -0.26358134920150794
+      ],
+      "clearance": 0.5857100466900541,
+      "grounded": false,
+      "attached": false,
+      "adhesionLoad": 0.41055829249651293,
+      "pixelRatio": 1,
+      "time": 8.65000000000015
+    },
+    "released": {
+      "ready": true,
+      "paused": false,
+      "dragging": false,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.004419400621927775,
+      "velocity": 0.05481668765124314,
+      "grab": [
+        0.03265685220918825,
+        0.023418406292412715,
+        0.05243829445167117
+      ],
+      "bodyPosition": [
+        1.6892395443383914,
+        1.3963730368024585,
+        -0.3036322269673932
+      ],
+      "orientation": [
+        -0.551433286484956,
+        -0.013531146709492682,
+        0.1979224749300717,
+        0.8102869445712929
+      ],
+      "angularVelocity": [
+        -0.39927600787420486,
+        -0.0388524457283183,
+        -0.46336634799157445
+      ],
+      "clearance": 0,
+      "grounded": true,
+      "attached": false,
+      "adhesionLoad": 0,
+      "pixelRatio": 1,
+      "time": 9.46666666666677
+    },
+    "settled": {
+      "ready": true,
+      "paused": false,
+      "dragging": false,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": 3.564451137606313e-8,
+      "velocity": 2.480387264432416e-7,
+      "grab": [
+        2.1452668547601323e-10,
+        2.0312728882464059e-10,
+        4.0890780297848663e-10
+      ],
+      "bodyPosition": [
+        1.864233938015158,
+        1.1081008339172747,
+        -0.9149694550121481
+      ],
+      "orientation": [
+        -0.717749222970639,
+        0.09688305016331882,
+        0.14221202794039364,
+        0.6747039844444204
+      ],
+      "angularVelocity": [
+        0,
+        0,
+        0
+      ],
+      "clearance": 0,
+      "grounded": true,
+      "attached": true,
+      "adhesionLoad": 0,
+      "pixelRatio": 1,
+      "time": 13.616666666666534
+    },
+    "resisted": {
+      "ready": true,
+      "paused": false,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.04048669608073724,
+      "velocity": 0.02089004253979996,
+      "grab": [
+        -1.3480819550449392,
+        0.029911330677431503,
+        0.7197253345170167
+      ],
+      "bodyPosition": [
+        0,
+        0.9071443532503652,
+        0
+      ],
+      "orientation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "angularVelocity": [
+        0,
+        0,
+        0
+      ],
+      "clearance": 0,
+      "grounded": true,
+      "attached": true,
+      "adhesionLoad": 0.6481395660933295,
+      "pixelRatio": 1,
+      "time": 1.5916666666666635
+    },
+    "sideways": {
+      "ready": true,
+      "paused": false,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.03501667792123851,
+      "velocity": -0.0008206745656584428,
+      "grab": [
+        0.1313994625819802,
+        0.22229773492828256,
+        0.1340447635577243
+      ],
+      "bodyPosition": [
+        -0.44820699267458586,
+        1.0318612755830368,
+        1.6257866877655542
+      ],
+      "orientation": [
+        0.08876597170673489,
+        -0.6643758911108607,
+        0.04350099186465222,
+        0.7408326000416021
+      ],
+      "angularVelocity": [
+        0.542321111751303,
+        -0.6437065753725844,
+        -0.5006498411908027
+      ],
+      "clearance": 0,
+      "grounded": true,
+      "attached": false,
+      "adhesionLoad": 0.15262777528849023,
+      "pixelRatio": 1,
+      "time": 2.9833333333333254
+    },
+    "errors": []
+  },
+  {
+    "backend": "webgl",
+    "small": {
+      "ready": true,
+      "paused": false,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.02824988851581013,
+      "velocity": 0.21642368108648904,
+      "grab": [
+        0.14678807118260773,
+        0.2049132165632055,
+        -0.10292206720129618
+      ],
+      "bodyPosition": [
+        0,
+        0.9164327242481275,
+        0
+      ],
+      "orientation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "angularVelocity": [
+        0,
+        0,
+        0
+      ],
+      "clearance": 0,
+      "grounded": true,
+      "attached": true,
+      "adhesionLoad": 0.09914951077365712,
+      "pixelRatio": 1,
+      "time": 4.8250000000000295
+    },
+    "bonded": {
+      "ready": true,
+      "paused": false,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.03513820804418347,
+      "velocity": 0.0034498346120258477,
+      "grab": [
+        -0.14853053397184013,
+        1.6361042086407183,
+        -0.4356259825553581
+      ],
+      "bodyPosition": [
+        0,
+        0.9130439302481587,
+        0
+      ],
+      "orientation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "angularVelocity": [
+        0,
+        0,
+        0
+      ],
+      "clearance": 0,
+      "grounded": true,
+      "attached": true,
+      "adhesionLoad": 0.7867127531640076,
+      "pixelRatio": 1,
+      "time": 6.341666666666772
+    },
+    "tilted": {
+      "ready": true,
+      "paused": false,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.041918305177596225,
+      "velocity": -0.078093705502011,
+      "grab": [
+        0.22635500286384658,
+        0.06405603176876487,
+        0.611217256036419
+      ],
+      "bodyPosition": [
+        1.369586170607697,
+        1.4051966056407208,
+        -0.1865609735636067
+      ],
+      "orientation": [
+        -0.4391107878294446,
+        0.21078000239095596,
+        0.2569314822776949,
+        0.8347093626038107
+      ],
+      "angularVelocity": [
+        -0.012782795734040934,
+        -0.4481003911665569,
+        -0.3679399379173064
+      ],
+      "clearance": 0.023762391436969038,
+      "grounded": true,
+      "attached": false,
+      "adhesionLoad": 0.35160831251314806,
+      "pixelRatio": 1,
+      "time": 7.825000000000179
+    },
+    "pulled": {
+      "ready": true,
+      "paused": false,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.03483794008380199,
+      "velocity": 0.0034586300935331485,
+      "grab": [
+        0.45372277426879537,
+        0.30121791979557355,
+        0.7120099493169434
+      ],
+      "bodyPosition": [
+        1.5590702247381323,
+        2.0834098743884497,
+        -0.12472140528255042
+      ],
+      "orientation": [
+        -0.498839218526492,
+        -0.03643653504282692,
+        0.31049222689389433,
+        0.8083479387073503
+      ],
+      "angularVelocity": [
+        0.07421976870317691,
+        -0.259506919078225,
+        -0.10828876687954044
+      ],
+      "clearance": 0.5478043288819173,
+      "grounded": false,
+      "attached": false,
+      "adhesionLoad": 0.42766863373034353,
+      "pixelRatio": 1,
+      "time": 8.991666666666797
+    },
+    "released": {
+      "ready": true,
+      "paused": false,
+      "dragging": false,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.0030356258685818706,
+      "velocity": 0.05019144920401166,
+      "grab": [
+        0.0294195650091254,
+        0.024504437943387088,
+        0.05208647373843061
+      ],
+      "bodyPosition": [
+        1.7038374585920624,
+        1.4019738820419256,
+        -0.3086484976283731
+      ],
+      "orientation": [
+        -0.5547697039227482,
+        -0.0350487633064844,
+        0.18918084536178814,
+        0.809452140369245
+      ],
+      "angularVelocity": [
+        -0.3777114882743187,
+        -0.05689240427236902,
+        -0.48233699529508817
+      ],
+      "clearance": 0,
+      "grounded": true,
+      "attached": false,
+      "adhesionLoad": 0,
+      "pixelRatio": 1,
+      "time": 9.825000000000083
+    },
+    "settled": {
+      "ready": true,
+      "paused": false,
+      "dragging": false,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": 3.8511689084685386e-8,
+      "velocity": 1.0087447746977852e-7,
+      "grab": [
+        5.4347644904694275e-11,
+        7.878095651579715e-11,
+        1.3742943934318783e-10
+      ],
+      "bodyPosition": [
+        1.9181212834596695,
+        1.1038333619701384,
+        -0.9076019062004548
+      ],
+      "orientation": [
+        -0.7156912413314215,
+        0.08326249619272642,
+        0.12733294411747934,
+        0.6816448673258093
+      ],
+      "angularVelocity": [
+        0,
+        0,
+        0
+      ],
+      "clearance": 0,
+      "grounded": true,
+      "attached": true,
+      "adhesionLoad": 0,
+      "pixelRatio": 1,
+      "time": 13.991666666666513
+    },
+    "resisted": {
+      "ready": true,
+      "paused": false,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.04048669608073724,
+      "velocity": 0.02089004253979996,
+      "grab": [
+        -1.351420804848516,
+        0.02992484789448202,
+        0.72150541961462
+      ],
+      "bodyPosition": [
+        0,
+        0.9073061812430027,
+        0
+      ],
+      "orientation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "angularVelocity": [
+        0,
+        0,
+        0
+      ],
+      "clearance": 0,
+      "grounded": true,
+      "attached": true,
+      "adhesionLoad": 0.6481413919850797,
+      "pixelRatio": 1,
+      "time": 1.5916666666666635
+    },
+    "sideways": {
+      "ready": true,
+      "paused": false,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.03502312209837615,
+      "velocity": -0.0007733012565166194,
+      "grab": [
+        0.14069253049085403,
+        0.21759245430156202,
+        0.12980388340480464
+      ],
+      "bodyPosition": [
+        -0.4566234871345676,
+        1.0305018782250694,
+        1.6178791959702694
+      ],
+      "orientation": [
+        0.08850084042968204,
+        -0.6620703434739439,
+        0.04636142468297012,
+        0.7427523677760302
+      ],
+      "angularVelocity": [
+        0.5725149795659337,
+        -0.6559465885834321,
+        -0.4967262852014324
+      ],
+      "clearance": 0,
+      "grounded": true,
+      "attached": false,
+      "adhesionLoad": 0.15168700895038906,
+      "pixelRatio": 1,
+      "time": 2.9916666666666587
+    },
+    "errors": []
+  }
+]

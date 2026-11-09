@@ -1,0 +1,44 @@
+[
+  {
+    "variant": "current",
+    "errors": [],
+    "state": {
+      "ready": true,
+      "paused": false,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.036070450884005095,
+      "velocity": -0.0030155836450307958,
+      "grab": [
+        0.9504956210948688,
+        1.58012560712885,
+        -1.0066189980576081
+      ],
+      "pixelRatio": 1,
+      "time": 1.7499999999999962
+    }
+  },
+  {
+    "variant": "stable-position",
+    "errors": [],
+    "state": {
+      "ready": true,
+      "paused": false,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.03607071470369632,
+      "velocity": -0.003275131040791358,
+      "grab": [
+        0.9505082958502519,
+        1.5801466786531289,
+        -1.0066324215715965
+      ],
+      "pixelRatio": 1,
+      "time": 1.741666666666663
+    }
+  }
+]

@@ -1,0 +1,125 @@
+{
+  "layouts": [
+    {
+      "width": 1440,
+      "height": 960,
+      "scrollWidth": 1440,
+      "hint": {
+        "top": 748.796875,
+        "right": 868.375,
+        "bottom": 763.796875,
+        "left": 730
+      },
+      "panel": {
+        "top": 406.796875,
+        "right": 1386.734375,
+        "bottom": 766.796875,
+        "left": 1148.734375
+      },
+      "footer": {
+        "top": 859,
+        "right": 1386.734375,
+        "bottom": 960,
+        "left": 53.265625
+      },
+      "pausedControlVisible": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "scrollWidth": 1024,
+      "hint": {
+        "top": 608,
+        "right": 591.421875,
+        "bottom": 623,
+        "left": 453.046875
+      },
+      "panel": {
+        "top": 331.5,
+        "right": 986.125,
+        "bottom": 681.5,
+        "left": 772.125
+      },
+      "footer": {
+        "top": 699,
+        "right": 986.125,
+        "bottom": 800,
+        "left": 37.875
+      },
+      "pausedControlVisible": true
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "scrollWidth": 768,
+      "hint": {
+        "top": 568,
+        "right": 447.46875,
+        "bottom": 583,
+        "left": 320.53125
+      },
+      "panel": {
+        "top": 690,
+        "right": 739.59375,
+        "bottom": 924,
+        "left": 28.40625
+      },
+      "footer": {
+        "top": 939,
+        "right": 739.59375,
+        "bottom": 1024,
+        "left": 28.40625
+      },
+      "pausedControlVisible": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "hint": {
+        "top": 568,
+        "right": 258.46875,
+        "bottom": 583,
+        "left": 131.53125
+      },
+      "panel": {
+        "top": 606,
+        "right": 366,
+        "bottom": 840,
+        "left": 24
+      },
+      "footer": {
+        "top": 855,
+        "right": 366,
+        "bottom": 940,
+        "left": 24
+      },
+      "pausedControlVisible": true
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "scrollWidth": 320,
+      "hint": {
+        "top": 568,
+        "right": 223.46875,
+        "bottom": 583,
+        "left": 96.53125
+      },
+      "panel": {
+        "top": 606,
+        "right": 296,
+        "bottom": 840,
+        "left": 24
+      },
+      "footer": {
+        "top": 855,
+        "right": 296,
+        "bottom": 940,
+        "left": 24
+      },
+      "pausedControlVisible": true
+    }
+  ],
+  "errors": []
+}

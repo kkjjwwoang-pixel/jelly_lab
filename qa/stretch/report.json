@@ -1,0 +1,69 @@
+{
+  "errors": [],
+  "cases": [
+    {
+      "name": "moderate",
+      "state": {
+        "ready": true,
+        "paused": false,
+        "dragging": true,
+        "palette": "rose",
+        "softness": 0.68,
+        "morph": 0,
+        "squash": -0.03529338364727819,
+        "velocity": -0.013059559147389196,
+        "grab": [
+          0.7700526470797242,
+          1.056411867104862,
+          -0.7435420309580604
+        ],
+        "pixelRatio": 1,
+        "time": 1.6416666666666633
+      }
+    },
+    {
+      "name": "extreme-up",
+      "state": {
+        "ready": true,
+        "paused": false,
+        "dragging": true,
+        "palette": "rose",
+        "softness": 0.68,
+        "morph": 0,
+        "squash": -0.03506954392745434,
+        "velocity": -0.014509506881531298,
+        "grab": [
+          0.9513644270449206,
+          1.5815290358116318,
+          -1.0074096248396476
+        ],
+        "pixelRatio": 1,
+        "time": 1.6249999999999967
+      }
+    }
+  ],
+  "frozen": {
+    "state": {
+      "ready": true,
+      "paused": true,
+      "dragging": true,
+      "palette": "rose",
+      "softness": 0.68,
+      "morph": 0,
+      "squash": -0.03587887793997572,
+      "velocity": -0.007038848055739174,
+      "grab": [
+        0.9508707584012112,
+        1.5807351290823548,
+        -1.0069716077718667
+      ],
+      "pixelRatio": 1,
+      "time": 1.7083333333333297
+    },
+    "grabPoint": [
+      0.606994927154421,
+      0.44127925649148336,
+      1.1544060811290722
+    ]
+  }
+}
